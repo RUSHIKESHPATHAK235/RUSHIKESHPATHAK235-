@@ -104,7 +104,7 @@
 
 Open for **freelance work, collaborations and consulting** — domestic & international.
 
-<a href="mailto:rushikeshpathak322@oxaam.com"><img src="https://img.shields.io/badge/Email%20Me-ffffff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<a href="mailto:rushikeshpathak322@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-ffffff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 <a href="https://github.com/RUSHIKESHPATHAK235"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
