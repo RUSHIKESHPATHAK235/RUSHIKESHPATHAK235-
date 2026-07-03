@@ -24,7 +24,7 @@
 - ◐ **Freelance full stack developer** with **250+ domestic & international clients**
 - ⌗ **500+ projects built** — web apps, payment gateways, games and automation tools
 - ∞ I **integrate AI into my entire workflow** for maximum efficiency, and switch into **vibe coding** mode to crack the most difficult tasks — shipping at 10× speed without sacrificing quality
-- ✉ Reach me: **rushikeshpathak322@oxaam.com**
+- ✉ Reach me: **rushikeshpathak322@gmail.com**
 
 ---
 
