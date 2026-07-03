@@ -113,6 +113,5 @@ Open for **freelance work, collaborations and consulting** — domestic & intern
 
 <br/><br/>
 
-*Crafted in monochrome — with a whole lot of vibe coding.* ✦
 
 </div>
